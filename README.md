@@ -1,8 +1,10 @@
-# Exercícios de High Order Functions
+# Atividades de High Order Functions
 
 ![Status](http://img.shields.io/static/v1?label=Status&message=Finalizado&color=GREEN&style=for-the-badge)
 
 ![Demonstração da Aplicação](./assets/demo.png)
+
+Projeto criado com o objetivo de praticar o desenvolvimento de High Order Functions em js
 
 ## Descrição
 ### 📝 A partir do vetor contido no arquivo data.js ou data.json faça os exercícios a seguir:
